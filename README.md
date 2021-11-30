@@ -15,4 +15,8 @@ Making projects like that one is hard, and if you want to support me, so I can d
 
 go to https://donationalerts.com/r/mrcheatt
 
-# App for PC
+# Download
+http://vds.mrcheat.ga/dl/pcl.zip Windows
+http://vds.mrcheat.ga/dl/pcl.apk Android
+http://vds.mrcheat.ga/dl/pcl.aab Android
+![alt text](https://github.com/MrCheatEugene/PCL/blob/images/image_one.jpg?raw=true)
