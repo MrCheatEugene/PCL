@@ -21,6 +21,14 @@ go to https://donationalerts.com/r/mrcheatt
 
 # Download
 http://vds.mrcheat.ga/dl/pcl.zip Windows
-http://vds.mrcheat.ga/dl/pcl.apk Android
-http://vds.mrcheat.ga/dl/pcl.aab Android
 
+http://vds.mrcheat.ga/dl/pcl.apk Android APK
+
+http://vds.mrcheat.ga/dl/pcl.aab Android App Bundle
+
+# Setting up
+
+- Get a N channel mosfet and an arduino board
+- Connect Gate to 9(by default it is, you can change it in sketch later), Drain to GND of your led string, and Source to ground of an power supply of string. LED string's VCC is connected to the external power supply. Arduino gets power from computer. 
+- If you did not understand, here is the schematic:
+- ![Windows app](https://github.com/MrCheatEugene/PCL/blob/images/image_two.png?raw=true) Original: http://wiki.amperka.ru/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82-arduino:%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9-%D1%82%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80
