@@ -20,11 +20,11 @@ Making projects like that one is hard, and if you want to support me, so I can d
 go to https://donationalerts.com/r/mrcheatt
 
 # Download
-http://vds.mrcheat.ga/dl/pcl.zip Windows
+https://vds.mrcheat.ga/dl/pcl.zip Windows
 
-http://vds.mrcheat.ga/dl/pcl.apk Android APK
+https://vds.mrcheat.ga/dl/pcl.apk Android APK
 
-http://vds.mrcheat.ga/dl/pcl.aab Android App Bundle
+https://vds.mrcheat.ga/dl/pcl.aab Android App Bundle
 
 # Setting up
 
